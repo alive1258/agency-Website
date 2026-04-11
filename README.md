@@ -1,8 +1,55 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Modern Digital Agency Website
+
+A sleek, high-performance digital agency website built with cutting-edge technologies to deliver exceptional user experience, speed, and scalability.
+
+## 🔗 Live Demo: https://solvex-website-flame.vercel.app/
+
+## ✨ Overview
+
+Solvex is a modern web solution designed for digital agencies to showcase their services, attract clients, and build a strong online presence.
+It combines performance, animation, and clean UI to create a professional and engaging experience.
+
+## ⚡ Key Features
+
+- 🚀 Ultra-fast performance with Next.js App Router
+- 🎨 Clean & modern UI powered by Tailwind CSS
+- 🎬 Smooth animations using Framer Motion
+- 📱 Fully responsive across all devices
+- 🔢 Animated counters & statistics
+- 🧭 Scroll-based interactive sections
+- 🧩 Reusable and scalable component structure
+- 🔤 Optimized typography with Next Font
+
+## 🛠️ Tech Stack
+
+- Framework: Next.js
+- Frontend: React
+- Styling: Tailwind CSS
+- Animations: Framer Motion
+- Icons: Remix Icon
+- Libraries:
+  - React CountUp
+  - React Fast Marquee
+  - React Intersection Observer
 
 ## Getting Started
 
+1️⃣ Clone the repository
+
 First, run the development server:
+
+```bash
+git clone https://github.com/alive1258/agency-Website.git
+cd agency-Website
+```
+
+2️⃣ Install dependencies
+
+```bash
+npm install
+```
+
+3️⃣ Run development server
 
 ```bash
 npm run dev
@@ -14,23 +61,35 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Services Included
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+This template is perfect for agencies offering:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- Web Development
+- UI/UX Design
+- Mobile App Development
+- SaaS Platforms
+- Digital Marketing
 
-## Learn More
+## UI & Animation Highlights
 
-To learn more about Next.js, take a look at the following resources:
+- Smooth page transitions
+- Scroll-triggered animations
+- Interactive sections
+- Performance-optimized motion effects
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Performance & SEO
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- ⚡ Optimized for speed and performance
+- 🔍 SEO-friendly structure
+- 📱 Mobile-first design
+- 🚀 Excellent user experience
 
-## Deploy on Vercel
+## License
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+This project is licensed under the MIT License.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Author
+
+Zamirul Kabir
+Full Stack Developer
