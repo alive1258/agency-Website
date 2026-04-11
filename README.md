@@ -6,7 +6,7 @@ A sleek, high-performance digital agency website built with cutting-edge technol
 
 ## ✨ Overview
 
-Solvex is a modern web solution designed for digital agencies to showcase their services, attract clients, and build a strong online presence.
+This is modern web solution designed for digital agencies to showcase their services, attract clients, and build a strong online presence.
 It combines performance, animation, and clean UI to create a professional and engaging experience.
 
 ## ⚡ Key Features
