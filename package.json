@@ -11,7 +11,7 @@
   "dependencies": {
     "@remixicon/react": "^4.6.0",
     "framer-motion": "^12.9.7",
-    "next": "15.2.2",
+    "next": "15.2.8",
     "postcss": "^8.5.3",
     "react": "^19.0.0",
     "react-countup": "^6.5.3",
