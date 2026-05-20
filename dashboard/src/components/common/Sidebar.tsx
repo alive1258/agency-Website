@@ -3,7 +3,6 @@ import { ChevronsUpDown } from "lucide-react";
 import SidebarItem from "./SidebarItem";
 import { navigationItems } from "../../config/dashboard/navigation-itmes.config";
 
-
 const Sidebar: React.FC = () => {
   const [openMenu, setOpenMenu] = useState<string | null>(null);
 
@@ -21,7 +20,7 @@ const Sidebar: React.FC = () => {
             A
           </span>
           <span className="font-semibold  text-lg grow truncate">
-            Asian IT Inc
+            Dashboard
           </span>
           <ChevronsUpDown className="w-4 h-4 text-gray-500" />
         </div>
@@ -38,8 +37,6 @@ const Sidebar: React.FC = () => {
           />
         ))}
       </nav>
-
-  
     </aside>
   );
 };
